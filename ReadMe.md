@@ -10,7 +10,7 @@ Or do you have several boxes and have no idea which one is used on the current s
 This project helps to get your license key from your Windows system.
 Moreover, this is absolutely free and open source!
 
-You can download the standalone release version and run.
+You can download the standalone release version([x86](https://www.dropbox.com/s/2mzyuvyl4fla9b8/winkey-x86.zip?dl=0), [x64](https://www.dropbox.com/s/j7yl364uisd11ph/winkey-x64.zip?dl=0)) and run.
 If you wish to build from source code, then read further.
 
 ### Prerequisites
